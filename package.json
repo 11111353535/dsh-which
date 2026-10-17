@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "dsh-which",
   "version": "0.1.0",
   "description": "Command resolution forensics for DeepSeek Harness: what actually runs when a command is typed 鈥?which PATH entry wins, what it shadowed, what shape PATH is in, and whether the copies behind one name agree on a version.",
