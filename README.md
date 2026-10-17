@@ -34,7 +34,13 @@ That last block is the whole reason this exists. Two Node installations, one on 
 ## Install
 
 ```sh
-dsh plugin add dsh-which
+dsh plugin add github:OWNER/dsh-which
+```
+
+From a checkout instead of a git host, pass the absolute path:
+
+```sh
+dsh plugin add /absolute/path/to/dsh-which
 ```
 
 Optional configuration, in the profile's `cordis.patch.yml`:

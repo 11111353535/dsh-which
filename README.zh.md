@@ -34,7 +34,13 @@ dsh-which · node
 ## 安装
 
 ```sh
-dsh plugin add dsh-which
+dsh plugin add github:OWNER/dsh-which
+```
+
+想从本地检出装，就直接给绝对路径：
+
+```sh
+dsh plugin add /absolute/path/to/dsh-which
 ```
 
 可选配置，写在 profile 的 `cordis.patch.yml` 里：
