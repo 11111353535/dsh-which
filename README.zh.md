@@ -34,7 +34,7 @@ dsh-which · node
 ## 安装
 
 ```sh
-dsh plugin add github:OWNER/dsh-which
+dsh plugin add https://github.com/11111353535/dsh-which
 ```
 
 想从本地检出装，就直接给绝对路径：

@@ -34,7 +34,7 @@ That last block is the whole reason this exists. Two Node installations, one on 
 ## Install
 
 ```sh
-dsh plugin add github:OWNER/dsh-which
+dsh plugin add https://github.com/11111353535/dsh-which
 ```
 
 From a checkout instead of a git host, pass the absolute path:
