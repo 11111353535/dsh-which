@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Command Resolution",
+    "description": "Show what actually runs when a command is typed: which PATH entry wins, what it shadowed, the shape of PATH, and whether the copies behind one name agree on a version."
+  }
+}
